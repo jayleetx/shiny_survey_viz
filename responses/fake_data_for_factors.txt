@@ -1,0 +1,15 @@
+"career_stage"|"funding"|"other_funding"|"institution_type"|"other_inst_type"|"institution_location"|"h_index"|"gender"|"other_gender"|"n_species"|"n_genera"|"n_families"|"n_phyla"|"molecular_imp"|"physiological_imp"|"individual_imp"|"species_imp"|"mechanism_imp"|"ontology_imp"|"adaptive_imp"|"phylogeny_imp"|"email"|"comments"|"timestamp"|"response"
+"1"|undergrad|NULL||research||africa|0|female||0|0|0|0|0|0|0|0|0|0|0|0|||1530564386|generated
+"2"|grad_stud|NULL||med_school||asia|1|male||0|0|0|0|0|0|0|0|0|0|0|0|||1530564386|generated
+"3"|postdoc|NULL||lib_arts||europe|2|trans_woman||0|0|0|0|0|0|0|0|0|0|0|0|||1530564386|generated
+"4"|assist_prof|NULL||non_teaching||north_america|3|trans_man||0|0|0|0|0|0|0|0|0|0|0|0|||1530564386|generated
+"5"|assoc_prof|NULL||other|Other institution type here|oceania|4|gnc||0|0|0|0|0|0|0|0|0|0|0|0|||1530564386|generated
+"6"|full_prof|NULL||||south_america|5|dna||0|0|0|0|0|0|0|0|0|0|0|0|||1530564386|generated
+"7"|undergrad|NULL|||||6|other|Non-binary|0|0|0|0|0|0|0|0|0|0|0|0|||1530564386|generated
+"8"|full_prof|NULL||||south_america|7|dna||0|0|0|0|0|0|0|0|0|0|0|0|||1530564386|generated
+"9"|full_prof|NULL||||south_america|30|dna||0|0|0|0|0|0|0|0|0|0|0|0|||1530564386|generated
+"10"|postdoc|c("gov_sci", "gov_health", "gov_military", "other")|More funding|non_teaching||europe|3|female||0|0|0|0|0|0|0|0|0|0|0|0|||1531144850|generated
+"11"|assist_prof|c("gov_sci", "gov_health", "gov_military")||lib_arts||north_america|3|trans_woman||0|0|0|0|0|0|0|0|0|0|0|0|||1531144882|generated
+"12"|assist_prof|NULL|||||NA|||0|0|0|0|0|0|0|0|0|0|0|0|||1531144970|generated
+"13"|assist_prof|c("gov_sci", "gov_health", "gov_military")||lib_arts||europe|4|female||0|0|0|0|0|0|0|0|0|0|0|0|||1531146362|generated
+"14"|grad_stud|NULL||research||north_america|20|trans_man||0|0|0|0|0|0|0|0|0|0|0|0|||1531146401|generated
