@@ -1,6 +1,5 @@
 # Jay Lee, June 2018
 
-# this is a shiny app written for Suzy Renn (Reed Biology) to administer a survey through
 # you can load the data into the R object `survey` with the following code (not run)
 
 ### library(dplyr)
@@ -37,11 +36,11 @@ ui <- dashboardPage(
               fluidRow(
                 box(width = 12,
                     # text
-                    p('The following survey was developed as a product of and undergraduate seminar course taught by Erik Zornik and Suzy Renn at Reed College spring 2018. The course built on a recent NSF whitepaper by Hans Hofmann and Dustin Rubenstein, but it focused on neuroethology rather than all of animal behavior. We aim to quantify the integrative nature of modern neuroethology research using 3 axes of integration, taxonomic, level of biological organization, and area of question as defined by Niko Tinbergen.'),
+                    p('The following survey was developed to quantify the integrative nature of modern neuroethology research using 3 axes of integration, taxonomic, level of biological organization, and area of question as defined by Niko Tinbergen.'),
                     br(),
                     h4("For the purpose of this survey, please consider your current primary research agenda to be the focus for your answers. This may include multiple years of work, as well as the effort of many people in a specific research group, but it should hang together as a cohesive (integrated) research agenda and omit side projects not related to the main research agenda."),
                     br(),
-                    p('The survey should take 5-7 minutes to complete. The responses will be kept anonymously and reports of this study will not include individual data in a form by which you could be identified.  Data from this study will be stored using on secure servers at Reed College. If successful, this survey may be used in a small publication. If you have any question about this research, please contact Suzy Renn (renns@reed.edu) for information about the procedures of this study.'),
+                    p('The survey should take 5-7 minutes to complete. The responses will be kept anonymously and reports of this study will not include individual data in a form by which you could be identified. If successful, this survey may be used in a small publication. If you have any question about this research, please contact Jay Lee (jayleetx) for information about the procedures of this study.'),
                     br(),
                     p("By continuing with the survey, you certify that you are 18 years of age or older and voluntarily consent to participate. Thank you for your participation."),
                     
@@ -241,8 +240,7 @@ ui <- dashboardPage(
                                 
                                 # text
                                 h3("Thank you for taking the time to add data to our database."),
-                                p("These data may be used in a publication by Erik Zornik, Suzy Renn and the Reed students keep working on this this summer. If you have questions about this work please contact us by email (renns@reed.edu or ezornik@reed.edu)."),                                
-                                
+                                                    
                                 # questions
                                 textInput("comments", width = '100%',
                                           label = "If you know of a research program that you consider to be particularly integrative, please decribe it briefly below."),
